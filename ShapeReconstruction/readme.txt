@@ -4,5 +4,7 @@ This project is used to reconstruct mesh from a point cloud. The related paper i
 
 Using the .exe file, you can construct a mesh from a point cloud.
 
+Uisng the .bat file, you can edit parameters for shape reconstruction.
+
 Parameters: Input filepath (.off .obj .ply); Simplification number; Output filepath (.obj).
 
