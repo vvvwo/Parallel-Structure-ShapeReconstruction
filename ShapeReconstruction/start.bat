@@ -1,0 +1,1 @@
+shapeReconstruction.exe Armadillo.ply 10000 Armadillo_out.obj
